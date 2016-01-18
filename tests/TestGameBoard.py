@@ -1,5 +1,5 @@
-from battleships_case import *
-from battleships_case.GameBoard import GameBoard
+from battleships import *
+from battleships.GameBoard import GameBoard
 import unittest
 
 

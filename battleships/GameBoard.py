@@ -1,4 +1,4 @@
-from battleships_case import *
+from battleships import *
 
 
 class GameBoard:
