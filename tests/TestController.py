@@ -1,5 +1,5 @@
-from battleships.Controller import Controller
-from battleships.GameBoard import GameBoard
+from battleships_case.Controller import Controller
+from battleships_case.GameBoard import GameBoard
 import unittest
 
 

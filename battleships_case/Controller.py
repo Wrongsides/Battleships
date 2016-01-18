@@ -1,4 +1,4 @@
-from battleships import *
+from battleships_case import *
 
 
 class Controller:
